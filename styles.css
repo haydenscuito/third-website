@@ -1,0 +1,39 @@
+body{
+    background-color: #F5FFFA;
+}
+
+h1{
+    color:#B0C4DE;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    border: 1px solid#000000;
+}
+
+b{
+    color:#DC143C ;
+}
+
+#special-bold{
+    color: #6495ED;
+}
+
+#special-word {
+    color: #2F4F4F; 
+}
+
+#first-par{
+    background-color:#FDF5E6 ;
+    padding: 25px;
+    border: 2px solid #FFDAB9;
+    margin: 25px;
+}
+
+#second-par{
+    background-color:#FDF5E6 ;
+    padding: 25px;
+    border: 2px solid #FFDAB9;
+    margin: 25px;
+}
